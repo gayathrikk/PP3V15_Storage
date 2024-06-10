@@ -80,7 +80,7 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
           <configuration>
-            <test>com.gayu.Gayathri.pp3v5</test>
+            <test>com.gayu.Gayathri.pp3v15</test>
           </configuration>
         </plugin>
       </plugins>
