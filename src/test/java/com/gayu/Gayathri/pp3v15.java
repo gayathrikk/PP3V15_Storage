@@ -111,7 +111,7 @@ public class pp3v15 {
 	    //  String[] to = {"annotation.divya@gmail.com"}; 
 	    	String[] to = {"karthik6595@gmail.com"};
 	    	 // String[] cc = {"divya.d@htic.ittm.ac.in"};
-	       String[] cc = {"chinna02jobroi@gmail.com", "meerannagoor84@gmail.com", "sindhu.r@htic.iitm.ac.in", "nathan.i@htic.iitm.ac.in", "divya.d@htic.ittm.ac.in", "lavanyabotcha@htic.iitm.ac.in", "venip@htic.iitm.ac.in"};
+	       String[] cc = {"chinna02jobroi@gmail.com", "meerannagoor84@gmail.com", "sindhu.r@htic.iitm.ac.in", "nathan.i@htic.iitm.ac.in", "divya.d@htic.iitm.ac.in", "lavanyabotcha@htic.iitm.ac.in", "venip@htic.iitm.ac.in"};
 	        String[] bcc = {};  	
 	      //  String[] to = {"karthik6595@gmail.com","annotation.divya@gmail.com", "gayathrigayu0918@gmail.com","nathan.i@htic.iitm.ac.in","venip@htic.iitm.ac.in", "lavanyabotcha@htic.iitm.ac.in"}; 
 	        // Sender's email ID needs to be mentioned
