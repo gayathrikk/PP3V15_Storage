@@ -108,12 +108,11 @@ public class pp3v15 {
 
     private void sendEmailAlert(String messageBody) {
 	        // Recipient's email ID needs to be mentioned.
-	    //  String[] to = {"annotation.divya@gmail.com"}; 
-	    	String[] to = {"gayathrigayu0918@gmail.com"};
-	    	 // String[] cc = {"divya.d@htic.ittm.ac.in"};
-	      String[] cc = {"nathan.i@htic.iitm.ac.in", "venip@htic.iitm.ac.in", "divya.d@htic.ittm.ac.in"};
-	        String[] bcc = {};  	
-	      //  String[] to = {"karthik6595@gmail.com","annotation.divya@gmail.com", "gayathrigayu0918@gmail.com","nathan.i@htic.iitm.ac.in","venip@htic.iitm.ac.in", "lavanyabotcha@htic.iitm.ac.in"}; 
+	   
+	       String[] to = {""nathan.i@htic.iitm.ac.in","};
+	       String[] cc = {"nathan.i@htic.iitm.ac.in", "venip@htic.iitm.ac.in", "divya.d@htic.ittm.ac.in"};
+	       String[] bcc = {};  	
+	    
 	        // Sender's email ID needs to be mentioned
 	        String from = "gayathri@htic.iitm.ac.in";
 	        // Assuming you are sending email through Gmail's SMTP
